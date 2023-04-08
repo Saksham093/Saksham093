@@ -1,32 +1,33 @@
-<h1 align="center">Hi 👋, I'm <b>M.SAKSHAM</b></h1>
-<h2  align="center"><b>Let's Make A Dent in The Universe</b></h2>
-<br>
+![My Intro](/assets/Git.png)
 
-<hr>
+---
 
-<a align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham093" alt="saksham093" /></a> 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham093&label=Profile%20views&color=0e75b6&style=flat" alt="saksham093" /> </p>
 
-- 🌱 I’m currently learning **AI, ML, Dl and More ...**
+<p align="center" >
+	<a href="https://github.com/Saksham093"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+    <a href="mailto: m.saksham093@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/open-envelope.png"/></a>
+	<a href="http://mrsaksham.com/"><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/web.png"></a>
+</p>
 
-- 👯 Let's Create **Innovative World**
+<p align='center'><img width="400px" height="217px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham093&theme=radical" alt="m.SAKSHAM" />&nbsp; &nbsp;<img width="405px" height="200px"src="https://github-readme-stats.vercel.app/api?username=Saksham093&count_private=true&theme=radical"/></p>
 
-<hr>
-<h3 align="left"><b>Languages and Tools :</b></h3>
-<p align="left">  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
 
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
 
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
-<hr>
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham093&" alt="Saksham093" /></p>
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham093&label=Profile%20views&color=0e75b6&style=flat" alt="saksham093" /> </p> 
-
-<hr>
-<h2><a href = "m.saksham093@gmail.com"><b>Mail Me : 📧</b></a></h2>
-
-<hr>
+<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3>
